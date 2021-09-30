@@ -61,7 +61,7 @@ import com.mindtree.utility.screenshot;
 		public void signup() throws Exception {
 			
 			driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-			hp.username().sendKeys("ka12q2jhf7@gmail.com");
+			hp.username().sendKeys("ka12q99990kf7@gmail.com");
 			hp.password().sendKeys("demo1234");
 			hp.loginbutton().click();
 			log.info("signup successful");

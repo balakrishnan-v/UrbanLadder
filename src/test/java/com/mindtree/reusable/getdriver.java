@@ -21,15 +21,16 @@ import org.openqa.selenium.chrome.ChromeDriver;
 			String browser = prop.getProperty("browser");
 			if(browser.equals("chrome")) {
 				System.setProperty("webdriver.chrome.driver", "files\\chromedriver.exe");
+				
 				 driver = new ChromeDriver();
 			}
 			else if(browser.equals("firefox")) {
 				System.setProperty("webdriver.gecko.driver", "files\\geckodriver.exe");
-				 driver = new FirefoxDriver();
+				driver = new FirefoxDriver();
 			}
 			else if(browser.equals("edge")) {
 				System.setProperty("webdriver.edge.driver", "files\\msedgedriver.exe");
-				 driver = new EdgeDriver();
+				driver = new EdgeDriver();
 			}
 			return driver;
 		}

@@ -33,7 +33,7 @@ public class HomepageUI {
 	public   By newarrivals = By.cssSelector("#search-results > div.filter-section > div.optionsblock > div > div > div > div > div.item > div.gname > span");
 	
 	public   By product = By.className("product-img");
-	public   By addcart = By.cssSelector("#add-to-cart-button");
+	public   By addcart = By.xpath("/html/body/div[1]/div[2]/div[3]/div[3]/div[3]/div[1]/div[2]/div[1]/div[5]/form/div/div[2]/div[2]/div[3]/button");
 	
 	public   By emi = By.xpath("//*[@id=\"emi-offerings-container\"]/div/ul/a");
 	public   By cross = By.cssSelector("#applicable-emis > div > div.close-reveal-modal.icofont-cross");

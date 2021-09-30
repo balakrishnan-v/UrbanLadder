@@ -2,56 +2,56 @@
 <testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-09-27T17:35:24 IST" name="Default suite" finished-at="2021-09-27T17:36:32 IST" duration-ms="68335">
+  <suite started-at="2021-09-30T07:04:15 IST" name="Default suite" finished-at="2021-09-30T07:05:30 IST" duration-ms="75610">
     <groups>
     </groups>
-    <test started-at="2021-09-27T17:35:24 IST" name="Default test" finished-at="2021-09-27T17:36:32 IST" duration-ms="68335">
+    <test started-at="2021-09-30T07:04:15 IST" name="Default test" finished-at="2021-09-30T07:05:30 IST" duration-ms="75610">
       <class name="com.mindtree.runner.runner">
-        <test-method is-config="true" signature="webpageload()[pri:0, instance:com.mindtree.runner.runner@2ed2d9cb]" started-at="2021-09-27T17:35:24 IST" name="webpageload" finished-at="2021-09-27T17:35:30 IST" duration-ms="5898" status="PASS">
+        <test-method is-config="true" signature="webpageload()[pri:0, instance:com.mindtree.runner.runner@6e0f5f7f]" started-at="2021-09-30T07:04:15 IST" name="webpageload" finished-at="2021-09-30T07:04:29 IST" duration-ms="14150" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- webpageload -->
-        <test-method signature="signup()[pri:0, instance:com.mindtree.runner.runner@2ed2d9cb]" started-at="2021-09-27T17:35:30 IST" name="signup" finished-at="2021-09-27T17:35:44 IST" duration-ms="14276" status="PASS">
+        <test-method signature="signup()[pri:0, instance:com.mindtree.runner.runner@6e0f5f7f]" started-at="2021-09-30T07:04:29 IST" name="signup" finished-at="2021-09-30T07:04:42 IST" duration-ms="13242" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signup -->
-        <test-method signature="detailsupdate()[pri:1, instance:com.mindtree.runner.runner@2ed2d9cb]" started-at="2021-09-27T17:35:44 IST" name="detailsupdate" finished-at="2021-09-27T17:35:52 IST" duration-ms="7771" status="PASS">
+        <test-method signature="detailsupdate()[pri:1, instance:com.mindtree.runner.runner@6e0f5f7f]" started-at="2021-09-30T07:04:42 IST" name="detailsupdate" finished-at="2021-09-30T07:04:57 IST" duration-ms="15336" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- detailsupdate -->
-        <test-method signature="store()[pri:2, instance:com.mindtree.runner.runner@2ed2d9cb]" started-at="2021-09-27T17:35:52 IST" name="store" finished-at="2021-09-27T17:36:01 IST" duration-ms="8996" status="PASS">
+        <test-method signature="store()[pri:2, instance:com.mindtree.runner.runner@6e0f5f7f]" started-at="2021-09-30T07:04:57 IST" name="store" finished-at="2021-09-30T07:05:06 IST" duration-ms="8944" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- store -->
-        <test-method signature="cusStories()[pri:3, instance:com.mindtree.runner.runner@2ed2d9cb]" started-at="2021-09-27T17:36:01 IST" name="cusStories" finished-at="2021-09-27T17:36:07 IST" duration-ms="5456" status="PASS">
+        <test-method signature="cusStories()[pri:3, instance:com.mindtree.runner.runner@6e0f5f7f]" started-at="2021-09-30T07:05:06 IST" name="cusStories" finished-at="2021-09-30T07:05:09 IST" duration-ms="2932" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cusStories -->
-        <test-method signature="abtcompany()[pri:4, instance:com.mindtree.runner.runner@2ed2d9cb]" started-at="2021-09-27T17:36:07 IST" name="abtcompany" finished-at="2021-09-27T17:36:08 IST" duration-ms="1817" status="PASS">
+        <test-method signature="abtcompany()[pri:4, instance:com.mindtree.runner.runner@6e0f5f7f]" started-at="2021-09-30T07:05:09 IST" name="abtcompany" finished-at="2021-09-30T07:05:11 IST" duration-ms="1666" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- abtcompany -->
-        <test-method signature="search()[pri:5, instance:com.mindtree.runner.runner@2ed2d9cb]" started-at="2021-09-27T17:36:08 IST" name="search" finished-at="2021-09-27T17:36:14 IST" duration-ms="5079" status="PASS">
+        <test-method signature="search()[pri:5, instance:com.mindtree.runner.runner@6e0f5f7f]" started-at="2021-09-30T07:05:11 IST" name="search" finished-at="2021-09-30T07:05:14 IST" duration-ms="3531" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- search -->
-        <test-method signature="addcart()[pri:6, instance:com.mindtree.runner.runner@2ed2d9cb]" started-at="2021-09-27T17:36:14 IST" name="addcart" finished-at="2021-09-27T17:36:20 IST" duration-ms="6617" status="PASS">
+        <test-method signature="addcart()[pri:6, instance:com.mindtree.runner.runner@6e0f5f7f]" started-at="2021-09-30T07:05:14 IST" name="addcart" finished-at="2021-09-30T07:05:22 IST" duration-ms="7555" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addcart -->
-        <test-method signature="EMI()[pri:7, instance:com.mindtree.runner.runner@2ed2d9cb]" started-at="2021-09-27T17:36:20 IST" name="EMI" finished-at="2021-09-27T17:36:26 IST" duration-ms="5333" status="PASS">
+        <test-method signature="EMI()[pri:7, instance:com.mindtree.runner.runner@6e0f5f7f]" started-at="2021-09-30T07:05:22 IST" name="EMI" finished-at="2021-09-30T07:05:26 IST" duration-ms="3519" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- EMI -->
-        <test-method signature="giveaway()[pri:8, instance:com.mindtree.runner.runner@2ed2d9cb]" started-at="2021-09-27T17:36:26 IST" name="giveaway" finished-at="2021-09-27T17:36:27 IST" duration-ms="1734" status="PASS">
+        <test-method signature="giveaway()[pri:8, instance:com.mindtree.runner.runner@6e0f5f7f]" started-at="2021-09-30T07:05:26 IST" name="giveaway" finished-at="2021-09-30T07:05:27 IST" duration-ms="1329" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- giveaway -->
-        <test-method signature="logout()[pri:9, instance:com.mindtree.runner.runner@2ed2d9cb]" started-at="2021-09-27T17:36:27 IST" name="logout" finished-at="2021-09-27T17:36:31 IST" duration-ms="4085" status="PASS">
+        <test-method signature="logout()[pri:9, instance:com.mindtree.runner.runner@6e0f5f7f]" started-at="2021-09-30T07:05:27 IST" name="logout" finished-at="2021-09-30T07:05:30 IST" duration-ms="2654" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logout -->
-        <test-method is-config="true" signature="end()[pri:0, instance:com.mindtree.runner.runner@2ed2d9cb]" started-at="2021-09-27T17:36:31 IST" name="end" finished-at="2021-09-27T17:36:32 IST" duration-ms="1132" status="PASS">
+        <test-method is-config="true" signature="end()[pri:0, instance:com.mindtree.runner.runner@6e0f5f7f]" started-at="2021-09-30T07:05:30 IST" name="end" finished-at="2021-09-30T07:05:30 IST" duration-ms="582" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- end -->
